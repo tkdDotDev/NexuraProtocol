@@ -9,13 +9,22 @@ export default function Home() {
             Nexura
           </Link>
           <div className="flex items-center gap-4 text-sm">
-            <Link href="/dashboard" className="text-slate-300 hover:text-white transition-colors">
+            <Link
+              href="/dashboard"
+              className="text-slate-300 hover:text-white transition-colors"
+            >
               Dashboard
             </Link>
-            <Link href="/metrics" className="text-slate-300 hover:text-white transition-colors">
+            <Link
+              href="/metrics"
+              className="text-slate-300 hover:text-white transition-colors"
+            >
               Metrics
             </Link>
-            <Link href="/create-invoice" className="text-slate-300 hover:text-white transition-colors">
+            <Link
+              href="/create-invoice"
+              className="text-slate-300 hover:text-white transition-colors"
+            >
               Create Invoice
             </Link>
           </div>

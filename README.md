@@ -227,7 +227,7 @@ _Fully optimized for mobile devices (tested on iPhone 12 Pro, Samsung Galaxy S21
 
 **Real-Time Metrics:**
 
-- **Total Users:** 35 (117% of target)
+- **Total Users:** (117% of target)
 - **Total Invoices:** 89
 - **Total Volume:** 45,000 XLM (~$5,400 USD)
 - **User Satisfaction:** 4.5/5 ⭐
