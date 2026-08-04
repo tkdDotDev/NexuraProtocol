@@ -37,7 +37,7 @@ Nexura Protocol uses Stellar smart contracts to provide trust-minimized escrow i
 
 - **Live Demo:** https://nexura-protocol.vercel.app
 - **Demo Video:** https://www.loom.com/share/1808b06635344ccbb2e47774c252ce5e
-- **User Feedback Form:** https://docs.google.com/forms/d/e/1FAIpQLSe7U4W5O8-o9fArtX_J8YxRUB3xucfnldfTb-h8IDzgEczsFQ/viewform
+- **User Feedback Form:** https://docs.google.com/forms/d/e/1FAIpQLSe7U4W5O8-o9fArtX_J8YxRUB3xucfnldfTb-h8IDzgEczsFQ/viewform -**User Spreadsheets list:** https://docs.google.com/spreadsheets/d/1wQfRul0fVM_F2ubcs0Dty4cIWO9QSBEse2-d8n8ZLpU/edit?usp=sharing
 
 ---
 
